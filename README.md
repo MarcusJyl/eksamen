@@ -1,5 +1,5 @@
 
-[![Build Status](https://travis-ci.com/MarcusJyl/Ca3Personal.svg?branch=main)](https://travis-ci.com/MarcusJyl/Ca3Personal)
+[![Build Status](https://travis-ci.com/MarcusJyl/eksamen.svg?branch=master)](https://travis-ci.com/MarcusJyl/eksamen)
 
 ## Backend setup
 for at opsætte start koden skal der gøres det samme som for den udleveret start koden som ses i dette link
